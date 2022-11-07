@@ -1,0 +1,17 @@
+.card-img-top {
+    width: 100%;
+    height: 8em;
+    //background: url(your_image_url) no-repeat;
+    background-size: cover;
+    background-color: #48e9cc;
+  }
+
+  .card :hover{
+    box-shadow: black;
+    cursor: pointer;
+  }
+
+  .task :hover{
+    cursor: pointer;
+    color: yellow !important;
+  }
